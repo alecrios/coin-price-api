@@ -1,0 +1,14 @@
+{
+  "name": "nano-api-cache",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "apicache": "^1.4.0",
+    "await-to-js": "^2.1.1",
+    "coingecko-api": "^1.0.4",
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
