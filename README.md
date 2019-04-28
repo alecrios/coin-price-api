@@ -2,6 +2,6 @@
 
 ## Endpoints
 
-### `/market/{id}`
+### `/price`
 
-Fetches market data for the coin specified. Response is cached for 1 minute.
+Fetches the price of the coin in all available currencies. Response is cached server-side for one minute.
